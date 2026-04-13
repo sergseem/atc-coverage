@@ -1,9 +1,9 @@
 {
-  "coverage_pct": 50,
-  "skill_invocations": 99,
-  "channel_messages": 197,
+  "coverage_pct": 51,
+  "skill_invocations": 103,
+  "channel_messages": 202,
   "date_from": "2026-03-20",
-  "date_to": "2026-04-01",
-  "computed_at": "2026-04-12T08:45:49Z",
+  "date_to": "2026-04-13",
+  "computed_at": "2026-04-13T09:09:33Z",
   "channel": "#help-fraud-operations"
 }
