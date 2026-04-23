@@ -162,3 +162,4 @@
 2026-04-23 | sergsemenciuc | resolved_lookup | false_positive | https://shopify.slack.com/archives/C032EQKDS64/p1776930291650749
 2026-04-23 | sergsemenciuc | other | redirect | https://shopify.slack.com/archives/C032EQKDS64/p1776931472905409
 2026-04-23 | sergsemenciuc | payout_hold | no_action | https://shopify.slack.com/archives/C032EQKDS64/p1776930164860139
+2026-04-23 | sergsemenciuc | payout_hold | enforce_reserve | https://shopify.slack.com/archives/C032EQKDS64/p1776936384980379
