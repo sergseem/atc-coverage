@@ -1,10 +1,10 @@
 {
   "coverage_pct": 21,
-  "skill_invocations": 175,
+  "skill_invocations": 183,
   "channel_messages": 853,
   "date_from": "2026-03-20",
   "date_to": "2026-05-05",
-  "computed_at": "2026-05-06T09:17:38Z",
+  "computed_at": "2026-05-07T09:20:04Z",
   "channel": "#help-fraud-operations",
   "per_day": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "date": "2026-04-03",
-      "skill": 15,
+      "skill": 18,
       "messages": 26
     },
     {
@@ -164,12 +164,12 @@
     },
     {
       "date": "2026-04-20",
-      "skill": 14,
+      "skill": 16,
       "messages": 21
     },
     {
       "date": "2026-04-21",
-      "skill": 11,
+      "skill": 13,
       "messages": 28
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "date": "2026-04-23",
-      "skill": 6,
+      "skill": 7,
       "messages": 28
     },
     {
