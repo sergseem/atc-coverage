@@ -245,3 +245,5 @@ Date,Analyst,Classification,Outcome,Slack link
 2026-07-30,sergsemenciuc,payout_hold,enable_transfers,https://shopify.slack.com/archives/C032EQKDS64/p1785417505371429
 2026-07-30,sergsemenciuc,legacy_stripe_multi_shop_payout_release,six CZ card-cashing reserves expired; shop 77372686612 handled manually by Serg; TP-26699637/26699650/26699659/26699682/26699730 claimed+fraud_slack+notes 12628262-12628266+FP drafts 166791582/166791587/166791590/166791595/166791599,https://shopify.slack.com/archives/C032EQKDS64/p1785418636432379
 2026-07-30,sergsemenciuc,payout_hold,enable_transfers,https://shopify.slack.com/archives/C032EQKDS64/p1785419147131929
+2026-07-30,sergsemenciuc,duplicate_legacy_stripe_payout_release,"same shop 76016812377/acct_1NFhLSRXjsDDQTwT as prior six-shop request; TP-26699637 solved via completed FP 166791582, note 12628262 updated with Lan thread; reply + eyes/check",https://shopify.slack.com/archives/C032EQKDS64/p1785422453651959
+2026-07-30,sergsemenciuc,payout_hold,enable_transfers,https://shopify.slack.com/archives/C032EQKDS64/p1785423240724349
